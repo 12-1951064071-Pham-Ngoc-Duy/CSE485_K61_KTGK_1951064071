@@ -58,7 +58,7 @@
         <div class="col-md-12">
             <div class="form-group">
                 <label for="">Nhiệm vụ</label>
-                <input type="text" class="form-control" require name="txtPhone" required/>
+                <input type="text" class="form-control" require name="txtNhiemvu" required/>
             </div>
         </div>
 
